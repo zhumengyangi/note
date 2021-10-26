@@ -1,6 +1,4 @@
-# zhumengyang.github.io
-zhumengyang的个人博客
+#note
 
-### TEST
+[https://github.com/zhumengyangi/note](https://github.com/zhumengyangi/note)
 
-[Ubuntu 源码安装swoole](https://github.com/zhumengyangi/note/blob/main/Ubuntu-swoole.md)
