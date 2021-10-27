@@ -6,8 +6,10 @@
 
 ## 编程笔记
 
-[Ubuntu 源码安装swoole](https://github.com/zhumengyangi/note/blob/main/docs/Ubuntu-swoole.md)
+[Ubuntu 源码安装swoole](docs/Ubuntu-swoole.md)
 
-[GitHub 推不上去代码](https://github.com/zhumengyangi/note/blob/main/docs/Github.md)
+[GitHub 推不上去代码](docs/Github.md)
 
-[推荐一款终端软件：ZSH](https://github.com/zhumengyangi/note/blob/main/docs/zsh.md)
+[推荐一款终端软件：ZSH](docs/zsh.md)
+
+[我用 Docker 部署了 Larvel-admin，并数据持久化到宿主机](docs/docker.md)
