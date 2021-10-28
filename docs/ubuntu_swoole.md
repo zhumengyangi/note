@@ -1,4 +1,4 @@
-# Hyperf 框架中添加 Swoole 扩展源码安装
+# Ubuntu 原生安装 Swoole 扩展
 
 ### 官方编译安装教程 [点击](https://wiki.swoole.com/#/environment)
 
