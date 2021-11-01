@@ -3,7 +3,6 @@
 [博客地址](https://zhumengyangi.github.io/note/#/)
 
 
-
 ## 编程笔记
 
 [Ubuntu 源码安装swoole](docs/ubuntu_swoole.md)
@@ -15,3 +14,5 @@
 [我用 Docker 部署了 Larvel-admin，并数据持久化到宿主机](docs/docker.md)
 
 [Mysql Varchar255 和 Varchar 小于255整体测试](docs/mysql_test.md)
+
+[服务器如何不输密码免密登录](docs/server_login.md)
