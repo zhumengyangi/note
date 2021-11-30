@@ -16,3 +16,5 @@
 [Mysql Varchar255 和 Varchar 小于255整体测试](docs/mysql_test.md)
 
 [服务器如何不输密码免密登录](docs/server_login.md)
+
+[Windows 子系统 Wsl2（Ubuntu）中 Docker 设置静态（固定） IP 地址](docs/windows_wsl_ubuntu_add_static_ip.md)
