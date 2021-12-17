@@ -18,3 +18,6 @@
 [服务器如何不输密码免密登录](docs/server_login.md)
 
 [Windows 子系统 Wsl2（Ubuntu）中 Docker 设置静态（固定） IP 地址](docs/windows_wsl_ubuntu_add_static_ip.md)
+
+迫于公司年会节目需要，临时兼编剧攥写小品。
+[程序员面试-小品](docs/程序员面试-小品.md)
