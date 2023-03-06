@@ -2,6 +2,10 @@
 
 [博客地址](https://zhumengyangi.github.io/note/#/)
 
+## 个人简历
+[PHP开发-朱梦阳](docs/PHP工程师-朱梦阳简历.md)
+
+[PHP开发-朱梦阳](docs/PHP工程师-朱梦阳简历.pdf)
 
 ## 编程笔记
 
